@@ -23,4 +23,4 @@ const AboutStyled = styled.section`
     
 `;
 
-export default AboutPage
+export default AboutPage;
