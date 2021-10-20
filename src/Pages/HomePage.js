@@ -24,7 +24,7 @@ function HomePage() {
                     <a href="mailto:reyesgutierrez.utd@gmail.com" target="_blank" className="icon i-youtube">
                         <EmailIcon />
                     </a>
-                    <a href="https://www.linkedin.com/in/jose-luis-reyes-gutierrez-20726b223/" className="icon i-facebook">
+                    <a href="https://www.linkedin.com/in/jose-luis-reyes-gutierrez-20726b223/" target="_blank" className="icon i-facebook">
                         <LinkedinIcon />
                     </a>
                     

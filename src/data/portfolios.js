@@ -1,8 +1,7 @@
 import pro1 from '../img/portImages/pro1.png';
 import pro2 from '../img/portImages/pro2.png';
 import pro3 from '../img/portImages/pro3.png';
-import img2 from '../img/portImages/maya-4.jpg';
-import img3 from '../img/portImages/maya-3.jpg';
+import blog from '../img/portImages/Blog.png';
 
 const portfolios = [
     {
@@ -25,7 +24,16 @@ const portfolios = [
     },
   
     {
-        id: 7,
+        id: 3,
+        category: 'Veu',
+        image: blog,
+        link1: 'https://github.com/ReyesGutierrez-JoseLuis/MyBlog',
+        link2: 'https://myblog-jlrg.netlify.app/',
+        title: 'MyBlog Vue and Firebase Application',
+        text: 'Vue, JavaScript, Firebase, HTML'
+    },
+    {
+        id: 4,
         category: 'React Native',
         image: pro3,
         link1: 'https://github.com/ReyesGutierrez-JoseLuis/Hunting',
@@ -33,6 +41,8 @@ const portfolios = [
         title: 'Hunting React Native App',
         text: 'React Native, JavaScript, Firebase, Facebook API, Google Maps '
     }
+
+  
 ]
 
 export default portfolios;
