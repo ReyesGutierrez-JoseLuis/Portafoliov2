@@ -2,6 +2,7 @@ import pro1 from '../img/portImages/pro1.png';
 import pro2 from '../img/portImages/pro2.png';
 import pro3 from '../img/portImages/pro3.png';
 import blog from '../img/portImages/Blog.png';
+import invoice from '../img/portImages/invoice.png';
 
 const portfolios = [
     {
@@ -35,11 +36,11 @@ const portfolios = [
     {
         id: 4,
         category: 'Veu',
-        image: pro3,
+        image: invoice,
         link1: 'https://github.com/ReyesGutierrez-JoseLuis/CrudVueApp', 
-        link2: '',
+        link2: 'https://vue-crud-app.netlify.app/',
         title: 'Vue app, In voice CRUD',
-        text: 'Veu, JavaScript, Firebase, Facebook API, Google Maps '
+        text: 'Veu, JavaScript, Firebase, CRUD, Invoice '
     },
 
     {
