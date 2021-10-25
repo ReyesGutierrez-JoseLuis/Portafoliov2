@@ -34,13 +34,25 @@ const portfolios = [
     },
     {
         id: 4,
+        category: 'Veu',
+        image: pro3,
+        link1: 'https://github.com/ReyesGutierrez-JoseLuis/CrudVueApp', 
+        link2: '',
+        title: 'Vue app, In voice CRUD',
+        text: 'Veu, JavaScript, Firebase, Facebook API, Google Maps '
+    },
+
+    {
+        id: 5,
         category: 'React Native',
         image: pro3,
-        link1: 'https://github.com/ReyesGutierrez-JoseLuis/Hunting',
+        link1: 'https://github.com/ReyesGutierrez-JoseLuis/Hunting', 
         link2: 'https://expo.dev/@gxxxne/hunting',
         title: 'Hunting React Native App',
         text: 'React Native, JavaScript, Firebase, Facebook API, Google Maps '
     }
+
+
 
   
 ]
